@@ -1,4 +1,4 @@
 function laCajaDePandora(numero){
     // proximamente escribiremos codigo aqui  
-    // escribiendo o o o
+    // escribiendo o o o 
 }
